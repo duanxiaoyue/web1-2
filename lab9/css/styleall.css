@@ -1,0 +1,21 @@
+*{
+	padding: 0;
+	border: 0;
+	font-family: '宋体';
+	list-style-type: none;
+}
+body{
+	font-size: 12px;
+	background-image: url(images/bodybg.gif);
+	background-repeat: repeat-x;
+}
+a:link{
+	text-decoration: none;
+	color: #522a06;
+}
+a:hover{
+	text-decoration: underline;
+}
+a:visited{
+	color: #522a06;
+}
