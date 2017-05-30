@@ -1,0 +1,7 @@
+.word a{
+	font-size: 14px;
+}
+.word1 a:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
