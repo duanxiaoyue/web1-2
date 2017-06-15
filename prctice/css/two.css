@@ -1,0 +1,20 @@
+.one,.two,.three{
+	width: 300px;
+	height: 300px;
+	float: left;
+}
+.one{
+	background-color: #33ccff;
+}
+.two{
+	background-color: #66cc33;
+	position: relative;
+	top: 60px;
+	left: -240px;
+}
+.three{
+	background-color: #996699;
+	position: relative;
+	top: 120px;
+	left: -480px;
+}
