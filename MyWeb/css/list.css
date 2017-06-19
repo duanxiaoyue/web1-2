@@ -1,0 +1,161 @@
+a{
+	color: black;
+}
+a:hover{
+	color: green;
+}
+.pic{
+	margin-left: 130px;
+}
+.text{
+	width: 300px;
+	height: 30px;
+	border: 2px solid #7dc473;
+	position: relative;
+	left: 200px;
+	top: -15px;
+}
+.button{
+	height: 34px;
+	width: 50px;
+	text-align: center;
+	background-color: #7dc473;
+	color: white;
+	position: relative;
+	left: 200px;
+	top: -15px;
+}
+.banner{
+	height: 250px;
+	background-image: url(../images/timg.jpg);
+	background-repeat: no-repeat;
+}
+.leader{
+	margin: 0 auto;
+	width: 1000px;
+	height: 40px;
+	background-color: #7dc473;
+	font-size: 17px;
+	color: white;
+	text-align: center;
+}
+.leader div{
+	float: left;
+	padding: 8px;
+	padding-right: 70px;
+	padding-left: 34px;
+}
+.leader a{
+	color: white;
+}
+.leader a:hover{
+	color: green;
+}
+#content{
+	width: 1000px;
+	height: 610px;
+	margin: 0 auto;
+	border-bottom: 1px solid black;
+}
+.bread{
+	font-size: 13px;
+	margin-top: 5px;
+}
+.content_left{
+	width: 280px;
+	margin-top: 5px;
+	float: left;
+}
+.picture,.search{
+	width: 230px;
+	height: 250px;
+	border: 1px solid green;
+	margin-top: 10px;
+}
+.search{
+	margin-top: 40px;
+}
+.picture_title,.search_title,.list_title{
+	height: 28px;
+	background-color: #acd6a6;
+	color: #306928;
+	border-bottom: 1px solid green;
+}
+.picture_title a,.search_title a{
+	color: #000;
+}
+.picture_title a:hover,.search_title a:hover{
+	color: green;
+	text-decoration: underline;
+}
+.picture_content img{
+	margin-top: 10px;
+	margin-left: 15px;
+}
+.picture_content div{
+	color: green;
+	font-size: 25px;
+	font-weight: bolder;
+	width: 200px;
+	height: 50px;
+	margin-left: 75px;
+	margin-top: 10px;
+}
+.picture_content div a{
+	color: green;
+}
+.search_content ul{
+	font-size: 13px;
+	margin-left: 30px;
+	line-height: 2em;
+	margin-top: 5px;
+}
+.content_right {
+	width: 710px;
+	height: 470px;
+	margin-top: 15px;
+	margin-left: 5px;
+	float: left;
+}
+.list_content ul{
+	padding-left: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	list-style-type: circle;
+	padding-bottom: 10px;
+	font-size: 15px;
+	line-height: 1.5em;
+}
+.list_content div{
+	margin-left: 100px;
+}
+.list_content div a{
+	color: green;
+	margin: 10px;
+}
+span{
+	font-size: 13px;
+	float: right;
+}
+#footer{
+	height: 105px;
+	clear: both;
+	text-align: top;
+	font-size: 12px;
+	margin-top: 100px;
+}
+.footer_content{
+	text-align: center;
+	padding-top: 30px;
+}
+.footer_content a{
+	color: black;
+}
+.bottom_img{
+	margin-left: 420px;
+	margin-top: 8px;
+}
+.bottom_word{
+	text-align: center;
+	margin-top: 5px;
+}

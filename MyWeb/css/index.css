@@ -1,0 +1,230 @@
+.pic{
+	margin-left: 130px;
+}
+.text{
+	width: 300px;
+	height: 30px;
+	border: 2px solid #7dc473;
+	position: relative;
+	left: 200px;
+	top: -15px;
+}
+.button{
+	height: 34px;
+	width: 50px;
+	text-align: center;
+	background-color: #7dc473;
+	color: white;
+	position: relative;
+	left: 200px;
+	top: -14px;
+}
+.banner{
+	height: 250px;
+	background-image: url(../images/timg.jpg);
+	background-repeat: no-repeat;
+}
+.leader{
+	margin: 0 auto;
+	width: 1000px;
+	height: 40px;
+	background-color: #7dc473;
+	font-size: 17px;
+	color: white;
+	text-align: center;
+}
+.leader div{
+	float: left;
+	padding: 8px;
+	padding-right: 70px;
+	padding-left: 34px;
+}
+.leader a{
+	color: white;
+}
+.leader a:hover{
+	color: green;
+}
+#content{
+	margin: 0 auto;
+	width: 1000px;
+}
+.content_top{
+	height: 210px;
+}
+.weekly,.recommend,.search{
+	width: 250px;
+	height: 200px;
+	border: 1px solid green;
+	margin-top: 10px;
+	float: left;
+}
+.weekly_title,.renewal_title,.login_title,.recommend_title,.messages_title,.search_title,.photo_title{
+	height: 28px;
+	background-color: #acd6a6;
+	color: #306928;
+	border-bottom: 1px solid green;
+}
+.weekly_title a,.renewal_title a,.recommend_title a,.messages_title a,.search_title a{
+	color: #000;
+}
+.weekly_title a:hover,.renewal_title a:hover,.recommend_title a:hover,.messages_title a:hover,.search_title a:hover{
+	color: #306928;
+}
+.weekly_content{
+	font-size: 13px;
+}
+.weekly_content img{
+	margin-top: 8px;
+	margin-left: 35px;
+	margin-right: 5px;
+}
+.weekly_content p{
+	font-size: 20px;
+	color: green;
+	margin-left: 90px;
+	font-weight: bolder;
+}
+.weekly_content p a{
+	color: green;
+}
+.weekly_content p a:hover{
+	color: #306928;
+}
+.renewal,.messages{
+	width: 500px;
+	height: 200px;
+	border: 1px solid green;
+	float: left;
+	margin-top: 10px;
+	margin-left: 22px;
+}
+.renewal_content{
+	font-size: 20px;
+	color: green;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.renewal_content p{
+	font-size: 13px;
+	color: #111;
+	text-indent: 2em;
+}
+.title{
+	font-size: 16px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.login{
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	float: left;
+	margin-top: 10px;
+	margin-left: 21px;
+}
+.login_title{
+	text-align: center;
+}
+.login_content p{
+	text-indent: 1em;
+	margin-top: 10px;
+}
+.button1{
+	width: 150px;
+	height: 20px;
+	border: 1px solid green;
+	margin-left: 13px;
+}
+.button2{
+	position: relative;
+	left:30px;
+	top: 10px;
+	margin-right: 20px;
+	height: 34px;
+	width: 50px;
+	text-align: center;
+	background-color: #7dc473;
+	color: white;
+}
+.search{
+	margin-left: 20px;
+}
+.recommend_content{
+	padding-top: 10px;
+}
+.recommend_content a{
+	font-weight: bolder;
+	margin-left: 30px;
+	color: green;
+}
+.recommend_content p{
+	font-size: 13px;
+	text-indent: 1em;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.message_content{
+	font-size: 13px;
+
+}
+.message_content_title1{
+	font-weight: bolder;
+	margin-left: 30px;
+	color: green;
+	font-size: 20px;
+	margin-top: 10px;
+}
+.message_content_title2{
+	font-size: 13px;
+	text-indent: 1em;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.search{
+	width: 200px;
+}
+.search_content ol{
+	margin-left: 21px;
+	margin-top: 5px;
+	font-size: 15px;
+}
+.search_content ol a{
+	color: black;
+}
+.search_content ol a:hover{
+	color: green;
+}
+.photo{
+	width: 1000px;
+	height: 248px;
+	border: 1px solid green;
+	float: left;
+	margin-top: 10px;
+}
+.photo img{
+	margin-top: 10px;
+	margin-left: 25px;
+	margin-right: 20px;
+}
+#footer{
+	height: 105px;
+	clear: both;
+	text-align: top;
+	font-size: 12px;
+}
+.footer_content{
+	text-align: center;
+	padding-top: 30px;
+}
+.footer_content a{
+	color: black;
+}
+.bottom_img{
+	margin-left: 420px;
+	margin-top: 8px;
+}
+.bottom_word{
+	text-align: center;
+	margin-top: 5px;
+}
